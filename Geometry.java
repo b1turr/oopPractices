@@ -4,6 +4,7 @@ public class Geometry{
 
     class Circle {
         double pi = 3.14;
+        double pi2 = 3;
 
         public double areaCalculatorCircle(double radius) {
             double area = (radius * radius) * pi;
@@ -40,6 +41,7 @@ public class Geometry{
 
 
     }
+
 
 
 
